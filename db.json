@@ -1,8 +1,6 @@
 {
   "posts": [
-    { "label": 1, "value": "Post 1" },
-    { "label": 2, "value": "Post 2" },
-    { "label": 3, "value": "Post 3" }
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
