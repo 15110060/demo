@@ -4,7 +4,7 @@
     { "label": "2", "value": "some comment" }
   ],
   "comments": [
-    "zxc": "123123"
+    {"zxc": "123123"}
   ],
   "profile": {
     "name": "typicode"
