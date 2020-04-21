@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "label": 1, "value": "some comment" },
-    { "label": 2, "value": "some comment" }
+    { "label": "1", "value": "some comment" },
+    { "label": "2", "value": "some comment" }
   ],
   "comments": [
     
